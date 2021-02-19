@@ -20,9 +20,9 @@ Un Push Botton
 
 ### Instalación 🔧
 
-1.- Conectar el NodeMCU a tu pc
-2.- Ejecutar Arduino IDE
-3.- Compilar y cargar el codigo al NodeMCU 
+* 1.- Conectar el NodeMCU a tu pc
+* 2.- Ejecutar Arduino IDE
+* 3.- Compilar y cargar el codigo al NodeMCU 
 
 
 ## Ejecutando las pruebas ⚙️
