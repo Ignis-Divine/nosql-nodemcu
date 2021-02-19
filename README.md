@@ -32,8 +32,8 @@ Al cargar el codigo al NodeMCU puedes ocupar la consola para revisar que muestra
 
 ## Despliegue 📦
 
-Este proyecto requiere la API [api-nodemcu](https://github.com/Ignis-Divine/api-nodemcu)
-Opcionalmente requiere el cliente web _no terminado_ (Alpha) [client-nodemcu](https://github.com/Ignis-Divine/client-nodemcu)
+* Este proyecto requiere la API [api-nodemcu](https://github.com/Ignis-Divine/api-nodemcu)
+* Opcionalmente requiere el cliente web _no terminado_ (Alpha) [client-nodemcu](https://github.com/Ignis-Divine/client-nodemcu)
 
 
 ## Construido con 🛠️
